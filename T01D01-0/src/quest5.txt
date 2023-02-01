@@ -1,0 +1,6 @@
+1 - vim src/door_managment_files/door_configuration/door_1.conf
+2 - tab 'I'
+3 - line3: Переписываем CLOSE на OPEN
+4 - tab 'esc'
+5 - print ":w"
+6 - print ":q"
